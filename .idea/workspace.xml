@@ -1,7 +1,202 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="105b573d-1e4e-40ea-85d3-6c3ac04c4beb" name="Default" comment="" />
+    <list default="true" id="105b573d-1e4e-40ea-85d3-6c3ac04c4beb" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/Polluter-1.0.0-mac.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/Polluter-1.0.0.dmg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/Polluter-1.0.0.dmg.blockmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Libraries/libffmpeg.dylib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Libraries/libnode.dylib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/MainMenu.nib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/am.lproj/locale.pak" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/ar.lproj/locale.pak" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/bg.lproj/locale.pak" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/bn.lproj/locale.pak" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/ca.lproj/locale.pak" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/content_shell.pak" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/cs.lproj/locale.pak" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/da.lproj/locale.pak" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/de.lproj/locale.pak" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/el.lproj/locale.pak" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/en.lproj/locale.pak" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/en_GB.lproj/locale.pak" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/es.lproj/locale.pak" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/es_419.lproj/locale.pak" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/et.lproj/locale.pak" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/fa.lproj/locale.pak" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/fi.lproj/locale.pak" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/fil.lproj/locale.pak" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/fr.lproj/locale.pak" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/gu.lproj/locale.pak" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/he.lproj/locale.pak" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/hi.lproj/locale.pak" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/hr.lproj/locale.pak" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/hu.lproj/locale.pak" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/icudtl.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/id.lproj/locale.pak" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/it.lproj/locale.pak" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/ja.lproj/locale.pak" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/kn.lproj/locale.pak" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/ko.lproj/locale.pak" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/lt.lproj/locale.pak" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/lv.lproj/locale.pak" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/ml.lproj/locale.pak" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/mr.lproj/locale.pak" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/ms.lproj/locale.pak" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/natives_blob.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/nb.lproj/locale.pak" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/nl.lproj/locale.pak" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/pdf_viewer_resources.pak" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/pl.lproj/locale.pak" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/pt_BR.lproj/locale.pak" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/pt_PT.lproj/locale.pak" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/ro.lproj/locale.pak" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/ru.lproj/locale.pak" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/sk.lproj/locale.pak" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/sl.lproj/locale.pak" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/snapshot_blob.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/sr.lproj/locale.pak" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/sv.lproj/locale.pak" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/sw.lproj/locale.pak" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/ta.lproj/locale.pak" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/te.lproj/locale.pak" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/th.lproj/locale.pak" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/tr.lproj/locale.pak" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/uk.lproj/locale.pak" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/vi.lproj/locale.pak" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/zh_CN.lproj/locale.pak" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/zh_TW.lproj/locale.pak" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Resources/Polluter.icns" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Resources/app.asar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Resources/electron.asar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Electron Framework.framework/Electron Framework" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Electron Framework.framework/Libraries" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Electron Framework.framework/Resources" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Electron Framework" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/crashpad_handler" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Electron Framework.framework/Versions/A/_CodeSignature/CodeResources" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Electron Framework.framework/Versions/Current" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Mantle.framework/Headers" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Mantle.framework/Mantle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Mantle.framework/Modules" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Mantle.framework/Resources" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Mantle.framework/Versions/A/Headers/MTLJSONAdapter.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Mantle.framework/Versions/A/Headers/MTLManagedObjectAdapter.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Mantle.framework/Versions/A/Headers/MTLModel+NSCoding.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Mantle.framework/Versions/A/Headers/MTLModel.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Mantle.framework/Versions/A/Headers/MTLValueTransformer.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Mantle.framework/Versions/A/Headers/Mantle.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Mantle.framework/Versions/A/Headers/NSArray+MTLManipulationAdditions.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Mantle.framework/Versions/A/Headers/NSDictionary+MTLManipulationAdditions.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Mantle.framework/Versions/A/Headers/NSObject+MTLComparisonAdditions.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Mantle.framework/Versions/A/Headers/NSValueTransformer+MTLInversionAdditions.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Mantle.framework/Versions/A/Headers/NSValueTransformer+MTLPredefinedTransformerAdditions.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Mantle.framework/Versions/A/Mantle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Mantle.framework/Versions/A/Modules/module.modulemap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Mantle.framework/Versions/A/Resources/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Mantle.framework/Versions/A/_CodeSignature/CodeResources" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Mantle.framework/Versions/Current" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Polluter Helper EH.app/Contents/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Polluter Helper EH.app/Contents/MacOS/Polluter Helper EH" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Polluter Helper EH.app/Contents/PkgInfo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Polluter Helper EH.app/Contents/_CodeSignature/CodeResources" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Polluter Helper NP.app/Contents/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Polluter Helper NP.app/Contents/MacOS/Polluter Helper NP" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Polluter Helper NP.app/Contents/PkgInfo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Polluter Helper NP.app/Contents/_CodeSignature/CodeResources" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Polluter Helper.app/Contents/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Polluter Helper.app/Contents/MacOS/Polluter Helper" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Polluter Helper.app/Contents/PkgInfo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Polluter Helper.app/Contents/_CodeSignature/CodeResources" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/ReactiveCocoa.framework/Headers" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/ReactiveCocoa.framework/Modules" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/ReactiveCocoa.framework/ReactiveCocoa" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/ReactiveCocoa.framework/Resources" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/EXTKeyPathCoding.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/EXTScope.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSArray+RACSequenceAdditions.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSControl+RACCommandSupport.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSControl+RACTextSignalSupport.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSData+RACSupport.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSDictionary+RACSequenceAdditions.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSEnumerator+RACSequenceAdditions.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSFileHandle+RACSupport.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSIndexSet+RACSequenceAdditions.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSNotificationCenter+RACSupport.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSObject+RACAppKitBindings.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSObject+RACDeallocating.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSObject+RACLifting.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSObject+RACPropertySubscribing.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSObject+RACSelectorSignal.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSOrderedSet+RACSequenceAdditions.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSSet+RACSequenceAdditions.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSString+RACSequenceAdditions.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSString+RACSupport.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSText+RACSignalSupport.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSURLConnection+RACSupport.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSUserDefaults+RACSupport.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACBacktrace.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACBehaviorSubject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACChannel.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACCommand.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACCompoundDisposable.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACDisposable.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACEvent.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACGroupedSignal.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACKVOChannel.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACMulticastConnection.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACQueueScheduler+Subclass.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACQueueScheduler.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACReplaySubject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACScheduler+Subclass.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACScheduler.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACScopedDisposable.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACSequence.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACSerialDisposable.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACSignal+Operations.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACSignal.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACStream.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACSubject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACSubscriber.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACSubscriptingAssignmentTrampoline.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACTargetQueueScheduler.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACTestScheduler.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACTuple.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACUnit.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/ReactiveCocoa.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/metamacros.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Modules/module.modulemap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/ReactiveCocoa" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Resources/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/_CodeSignature/CodeResources" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/Current" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Squirrel.framework/Headers" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Squirrel.framework/Modules" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Squirrel.framework/Resources" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Squirrel.framework/Squirrel" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Squirrel.framework/Versions/A/Headers/NSBundle+SQRLVersionExtensions.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Squirrel.framework/Versions/A/Headers/NSProcessInfo+SQRLVersionExtensions.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Squirrel.framework/Versions/A/Headers/SQRLDownloadedUpdate.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Squirrel.framework/Versions/A/Headers/SQRLUpdate.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Squirrel.framework/Versions/A/Headers/SQRLUpdater.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Squirrel.framework/Versions/A/Headers/Squirrel.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Squirrel.framework/Versions/A/Modules/module.modulemap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Squirrel.framework/Versions/A/Resources/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Squirrel.framework/Versions/A/Resources/ShipIt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Squirrel.framework/Versions/A/Squirrel" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Squirrel.framework/Versions/A/_CodeSignature/CodeResources" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Frameworks/Squirrel.framework/Versions/Current" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/MacOS/Polluter" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/PkgInfo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/mac/Polluter.app/Contents/_CodeSignature/CodeResources" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/preferred-vcs.xml" afterPath="$PROJECT_DIR$/.idea/preferred-vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.js" afterPath="$PROJECT_DIR$/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/styles.css" afterPath="$PROJECT_DIR$/styles.css" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -15,11 +210,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state relative-caret-position="88">
+              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="8" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -28,7 +223,7 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="86">
+            <state relative-caret-position="32">
               <caret line="23" column="32" lean-forward="false" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
               <folding />
             </state>
@@ -52,8 +247,18 @@
       <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="10" lean-forward="false" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+            <state relative-caret-position="119">
+              <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -71,14 +276,18 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/styles.css" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/index.js" />
         <option value="$PROJECT_DIR$/main.js" />
+        <option value="$PROJECT_DIR$/styles.css" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -100,7 +309,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="992" />
+    <option name="width" value="655" />
     <option name="height" value="692" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -174,6 +383,7 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -201,12 +411,6 @@
               <item name="polluter" type="b2602c69:ProjectViewProjectNode" />
               <item name="polluter" type="462c0819:PsiDirectoryNode" />
               <item name="dist" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="polluter" type="b2602c69:ProjectViewProjectNode" />
-              <item name="polluter" type="462c0819:PsiDirectoryNode" />
-              <item name="dist" type="462c0819:PsiDirectoryNode" />
-              <item name="win-unpacked" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -256,12 +460,12 @@
       <option name="presentableId" value="Default" />
       <updated>1510690062199</updated>
       <workItem from="1510690063690" duration="3597000" />
-      <workItem from="1510695846914" duration="12784000" />
+      <workItem from="1510695846914" duration="13338000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16381000" />
+    <option name="totallyTimeSpent" value="16935000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -273,13 +477,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="992" height="692" extended-state="0" />
+    <frame x="0" y="23" width="655" height="692" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2677652" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2665615" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998326" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Debug Logs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -371,10 +576,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/styles.css">
+    <entry file="file://$PROJECT_DIR$/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="10" lean-forward="false" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+        <state relative-caret-position="88">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="8" selection-end-column="3" />
           <folding />
         </state>
       </provider>
@@ -393,16 +598,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="86">
+        <state relative-caret-position="32">
           <caret line="23" column="32" lean-forward="false" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.js">
+    <entry file="file://$PROJECT_DIR$/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        <state relative-caret-position="119">
+          <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
           <folding />
         </state>
       </provider>
