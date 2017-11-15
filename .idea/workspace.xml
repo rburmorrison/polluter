@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="105b573d-1e4e-40ea-85d3-6c3ac04c4beb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/Polluter-1.0.0-mac.zip" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
@@ -68,7 +67,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
               <first_editor relative-caret-position="85">
-                <caret line="5" column="109" lean-forward="false" selection-start-line="5" selection-start-column="109" selection-end-line="5" selection-end-column="109" />
+                <caret line="5" column="169" lean-forward="false" selection-start-line="5" selection-start-column="169" selection-end-line="5" selection-end-column="169" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -284,12 +283,12 @@
       <option name="presentableId" value="Default" />
       <updated>1510690062199</updated>
       <workItem from="1510690063690" duration="3597000" />
-      <workItem from="1510695846914" duration="16108000" />
+      <workItem from="1510695846914" duration="16269000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19705000" />
+    <option name="totallyTimeSpent" value="19866000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -448,7 +447,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="85">
-            <caret line="5" column="109" lean-forward="false" selection-start-line="5" selection-start-column="109" selection-end-line="5" selection-end-column="109" />
+            <caret line="5" column="169" lean-forward="false" selection-start-line="5" selection-start-column="169" selection-end-line="5" selection-end-column="169" />
             <folding />
           </first_editor>
           <second_editor />
