@@ -3,6 +3,8 @@ A menu-bar app that replaces the newline characters in .txt files with `'\r\n'`.
 
 Why is this important? It's not, but it's a good practice program.
 
+<a href="https://github.com/ryan-burmeister/polluter/blob/master/build/Polluter-1.0.0-mac.zip" download>Mac download here</a>
+
 # Instructions
 Just drag
 
