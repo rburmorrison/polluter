@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Polluter</title>
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="./bower_components/skeleton/css/normalize.css">
+    <link rel="stylesheet" href="./bower_components/skeleton/css/skeleton.css">
+    <link rel="stylesheet" href="styles.css">
+
+    <!-- JavaScript -->
+    <script src="./node_modules/jquery/dist/jquery.min.js"></script>
+    <script src="./node_modules/vue/dist/vue.min.js"></script>
+</head>
+<body>
+    <div id="root">
+        <div class="header">
+            <div></div>
+            <div class="header__title">Polluter</div>
+            <div @click="onClose" class="header__close disable-select">x</div>
+        </div>
+        <div class="app-container">
+            <div v-if="files.length === 0" class="drop-zone disable-select">
+                Drop files to pollute here
+            </div>
+            <div class="file-list-container" v-else>
+                <h3>Files</h3>
+                <div class="file-list">
+                    <div v-for="(file, index) in files"
+                         :class="['file-list__row', {'file-list__row--bottom': index === files.length - 1,
+                     'file-list__row--selected': index % 2 === 0}]">{{file}}
+                    </div>
+                </div>
+                <button @click="polluteFiles" class="button-primary">Pollute</button>
+                <button @click="clearFiles" class="button-danger">Clear</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="index.js"></script>
+</body>
+</html>

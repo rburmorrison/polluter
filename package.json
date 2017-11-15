@@ -1,0 +1,29 @@
+{
+  "name": "polluter",
+  "version": "1.0.0",
+  "description": "An app to replace new line characters in .txt files with \\r\\n for windows notepad",
+  "main": "main.js",
+  "author": {
+    "name": "Ryan Burmeister"
+  },
+  "license": "MIT",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder",
+    "build:win": "electron-builder --win"
+  },
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "menubar": "^5.2.3",
+    "vue": "^2.5.3"
+  },
+  "devDependencies": {
+    "electron": "^1.7.9",
+    "electron-builder": "^19.45.4",
+    "electron-reload": "^1.2.2"
+  },
+  "build": {
+    "appId": "com.ryanburmeister.polluter",
+    "productName": "Polluter"
+  }
+}
