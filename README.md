@@ -1,5 +1,5 @@
 # Polluter
-An menu-bar app that replaces the newline characters in .txt files with `'\r\n'`. This allows them to work with Windows Notepad.
+A menu-bar app that replaces the newline characters in .txt files with `'\r\n'`. This allows them to work with Windows Notepad.
 
 Why is this important? It's not, but it's a good practice program.
 
