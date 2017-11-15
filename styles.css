@@ -56,7 +56,7 @@ h3 {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin: 3rem;
+    margin: 2rem;
     flex-flow: row;
     border: 1px dashed #888888;
     border-radius: 1rem;
